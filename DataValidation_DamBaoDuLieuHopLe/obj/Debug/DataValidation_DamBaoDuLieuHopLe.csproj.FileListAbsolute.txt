@@ -1,0 +1,7 @@
+D:\VisualC++\C#\DataValidation_DamBaoDuLieuHopLe\bin\Debug\DataValidation_DamBaoDuLieuHopLe.exe.config
+D:\VisualC++\C#\DataValidation_DamBaoDuLieuHopLe\bin\Debug\DataValidation_DamBaoDuLieuHopLe.exe
+D:\VisualC++\C#\DataValidation_DamBaoDuLieuHopLe\bin\Debug\DataValidation_DamBaoDuLieuHopLe.pdb
+D:\VisualC++\C#\DataValidation_DamBaoDuLieuHopLe\obj\Debug\DataValidation_DamBaoDuLieuHopLe.csproj.AssemblyReference.cache
+D:\VisualC++\C#\DataValidation_DamBaoDuLieuHopLe\obj\Debug\DataValidation_DamBaoDuLieuHopLe.csproj.CoreCompileInputs.cache
+D:\VisualC++\C#\DataValidation_DamBaoDuLieuHopLe\obj\Debug\DataValidation_DamBaoDuLieuHopLe.exe
+D:\VisualC++\C#\DataValidation_DamBaoDuLieuHopLe\obj\Debug\DataValidation_DamBaoDuLieuHopLe.pdb
