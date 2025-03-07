@@ -1,0 +1,7 @@
+D:\VisualC++\C#\Th2_LeVanHoa_OOP\bin\Debug\Th2_LeVanHoa_OOP.exe.config
+D:\VisualC++\C#\Th2_LeVanHoa_OOP\bin\Debug\Th2_LeVanHoa_OOP.exe
+D:\VisualC++\C#\Th2_LeVanHoa_OOP\bin\Debug\Th2_LeVanHoa_OOP.pdb
+D:\VisualC++\C#\Th2_LeVanHoa_OOP\obj\Debug\Th2_LeVanHoa_OOP.csproj.AssemblyReference.cache
+D:\VisualC++\C#\Th2_LeVanHoa_OOP\obj\Debug\Th2_LeVanHoa_OOP.csproj.CoreCompileInputs.cache
+D:\VisualC++\C#\Th2_LeVanHoa_OOP\obj\Debug\Th2_LeVanHoa_OOP.exe
+D:\VisualC++\C#\Th2_LeVanHoa_OOP\obj\Debug\Th2_LeVanHoa_OOP.pdb
